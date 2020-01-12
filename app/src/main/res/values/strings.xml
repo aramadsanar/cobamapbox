@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapboxNav</string>
+
+        <string name="access_token" translatable="false">sk.eyJ1IjoiYXJtYWRhbmFzYXIiLCJhIjoiY2s1YWducnJoMHhrcjNkbXV5Y201NmE1eiJ9.-scyyd-ZGpEP-MYaoX3jfA</string>
+        <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+        <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+
+</resources>
